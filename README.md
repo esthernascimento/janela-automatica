@@ -55,7 +55,7 @@ A alternância de modo é feita através de um botão específico. LEDs indicam 
 
 ## 📦 Estrutura do Código
 
-O projeto está todo implementado no `main.ino`. As principais funções são:
+O projeto está todo implementado no `janela-automatica.ino`. As principais funções são:
 - `abrirJanela()` – Aciona o motor para abrir.
 - `fecharJanela()` – Aciona o motor para fechar.
 - `pararMotor()` – Para o motor completamente.
